@@ -302,11 +302,10 @@ window.ALERTS_CLOSINGS_COUNT = 0;
 
 
 <% if ( weatherAlerts > 0 ) { %>
-<span class="alerts--item" tabindex="-1" aria-hidden="true" role="alert"  aria-label="Weather Alert">
+<span class="alerts--item" tabindex="-1" aria-hidden="true" role="alert"  aria-label="Breaking News">
 <a target="_top" href="/alerts" class="link" tabindex="-1">
-<span class="alerts--label">Severe Weather</span>
-<% var weatherAlertsMessage = "There " + ( weatherAlerts > 1 ? "are" : "is" ) + " currently " + weatherAlerts + " active weather " + ( weatherAlerts > 1 ? "alerts" : "alert" ); %>
-<span class="alerts--headline" title="<%- weatherAlertsMessage %>"><%- weatherAlertsMessage %></span>
+<span class="alerts--label">Breaking News</span>
+<% var weatherAlertsMessage = "Jack Owens resigns, leaving District Court empty"</span>
 </a>
 </span>
 <% } %>
