@@ -36,10 +36,9 @@
 <meta name="apple-itunes-app" content="app-id=505175161, affiliate-data=1001lpw, app-argument=canonical">
 <meta name="msvalidate.01" content="A645064CC349FEE2894B433087AB1839">
 <meta content="WBAL" property="og:site_name">
-<meta content="https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/htv_default_image/wbal/top_image.png?resize=1200:*" property="og:image">
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/WSYX2021.svg/330px-WSYX2021.svg.png?resize=1200:*" property="og:image">
 <meta name="refresh" http_equiv="refresh" content="600">
 <meta content="Washington D.C Weather News – DC Weather Updates – WWDC-TV 6 News" property="og:title">
-<meta content="WBAL-TV 11 Baltimore is your weather source for the latest forecast, radar, alerts, closings and video forecast. Visit WBAL-TV 11 Baltimore news today." property="og:description">
 <meta name="keywords" content="balitmore weather, maryland weather, baltimore weather news, 7-day baltimore forecast">
 <meta name="twitter:app:url:iphone" content="wbal://native/weather">
 <meta name="twitter:app:url:ipad" content="wbal://native/weather">
